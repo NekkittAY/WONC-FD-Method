@@ -3,6 +3,8 @@ WONC- FD (Wavelet-Based Optimization and Numerical Computing for Fault Detection
 
 WONC-FD (Wavelet-Based Optimization and Numerical Computing for Fault Detection) is a Python library for detecting and classifying faults in time-series data using wavelet analysis, numerical optimization, and machine learning techniques. This project aims to provide a robust and efficient method for identifying various types of errors within a signal.
 
+<img width="800px" src="https://github.com/NekkittAY/WONC-FD-Method/blob/main/doc/Algorithm.png"/>
+
 ## Table of Contents
 
 - [Introduction](#introduction)
