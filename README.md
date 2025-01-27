@@ -12,6 +12,7 @@ WONC-FD (Wavelet-Based Optimization and Numerical Computing for Fault Detection)
 - [Features](#features)
 - [Fault Classification](#fault-classification)
 - [Modules](#modules)
+- [Algorithm](#algorithm)
 
 ## Introduction
 
@@ -61,3 +62,6 @@ The repository contains the following modules:
 - **preprocessing_signals.py**: Includes functions for signal preprocessing such as fault detection, filtering, and visualization.
 - **multierror_dataset.py**: Provides functions for creating synthetic datasets with different error types, including various error signal generation functions.
 
+## Algorithm
+
+<img width="800px" src="https://github.com/NekkittAY/WONC-FD-Method/blob/main/doc/WONC-FD_Algorithm.png"/>
