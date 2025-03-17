@@ -29,7 +29,7 @@ This project utilizes the following technologies:
 *   **joblib:** For parallelizing computations.
 *   **Optuna:** For hyperparameter optimization in machine learning models.
 *   **Pandas:** For data manipulation and analysis, used for creating the datasets.
-*  **Matplotlib:** For visualizing results of the detection
+*  **Matplotlib:** For visualizing results of the detection.
 
 ## Features
 
