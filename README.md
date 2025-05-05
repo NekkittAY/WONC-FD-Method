@@ -11,6 +11,8 @@ WONC- FD (Wavelet-Based Optimization and Numerical Computing for Fault Detection
 
 WONC-FD (Wavelet-Based Optimization and Numerical Computing for Fault Detection) is a method for detecting and classifying faults in time-series data using wavelet analysis and numerical optimization. This project aims to provide a robust and efficient method for identifying various types of errors within a signal.
 
+* Sakovich, N.; Aksenov, D.; Pleshakova, E.; Gataullin, S. Wavelet-Based Optimization and Numerical Computing for Fault Detection Method—Signal Fault Localization and Classification Algorithm. Algorithms 2025, 18, 217. https://doi.org/10.3390/a18040217
+
 <img width="800px" src="https://github.com/NekkittAY/WONC-FD-Method/blob/main/doc/Algorithm.png"/>
 
 ## Wavelet-Based Optimization and Numerical Computing for Fault Detection Method—Signal Fault Localization and Classification Algorithm
@@ -27,6 +29,7 @@ This study focuses on the development of the WONC-FD (Wavelet-Based Optimization
 - [Fault Classification](#fault-classification)
 - [Modules](#modules)
 - [Algorithm](#algorithm)
+- [Article](#article)
 
 ## Introduction
 
@@ -79,3 +82,17 @@ The repository contains the following modules:
 ## Algorithm
 
 <img width="800px" src="https://github.com/NekkittAY/WONC-FD-Method/blob/main/doc/WONC-FD_Algorithm.png"/>
+
+## Article 
+```
+@article{sakovich2025wavelet,
+  title={Wavelet-Based Optimization and Numerical Computing for Fault Detection Method—Signal Fault Localization and Classification Algorithm},
+  author={Sakovich, Nikita and Aksenov, Dmitry and Pleshakova, Ekaterina and Gataullin, Sergey},
+  journal={Algorithms},
+  volume={18},
+  number={4},
+  pages={217},
+  year={2025},
+  publisher={MDPI}
+}
+```
